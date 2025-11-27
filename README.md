@@ -8,9 +8,9 @@ Welcome to **KMA Linktree** — your hub to explore all my web projects, online 
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **KMA Websites** | Org with a collection of all my web projects: personal sites, experiments, and more. | [Visit](https://github.com/KMA-Websites) |
 | **KMA Linktree** | Central hub linking all my online content. | [Visit](https://kma-websites.github.io/kma-linktree/) |
 | **KMA Publishing** | Showcase of my published books.| [Visit](https://kma-websites.github.io/kma-publishing/) 
+| **KMA Courses** | Available courses for purchase.| [Visit](https://kma-courses.netlify.app/)
 
 ---
 
